@@ -1,0 +1,17 @@
+body{
+    color:black;
+    background : #87ceeb;
+    text-align: center;
+}
+
+
+
+input{
+    margin-top: 20px;
+}
+
+#display_recognition{
+    height: 350px;
+    width: 1100px;
+    margin-right: 200px;
+}
